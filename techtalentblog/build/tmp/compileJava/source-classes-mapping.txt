@@ -1,0 +1,8 @@
+com/tts/techtalentblog/TechtalentblogApplication.java
+ com.tts.techtalentblog.TechtalentblogApplication
+com/tts/techtalentblog/repo/BlogPostRepository.java
+ com.tts.techtalentblog.repo.BlogPostRepository
+com/tts/techtalentblog/model/BlogPost.java
+ com.tts.techtalentblog.model.BlogPost
+com/tts/techtalentblog/controller/BlogPostController.java
+ com.tts.techtalentblog.controller.BlogPostController
